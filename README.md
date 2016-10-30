@@ -12,7 +12,6 @@
   <li>Raspberry Pi 3</li>
   <li>Lolin NodeMCU v3</li>
 </ul>
-<img src="/img/nmcpinout.png" alt="Lolin NodeMCU v3 Pinout"/>
 </body>
 </html>
 
