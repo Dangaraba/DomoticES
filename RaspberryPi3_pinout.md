@@ -1,1 +1,1 @@
-<img src="/img/rpcpinout.png" alt="Lolin NodeMCU v3 Pinout"/>
+<img src="/img/rppinout.png" alt="Raspberry Pi 3 Pinout"/>
