@@ -22,7 +22,10 @@
   <tr>
     <td>gpio.mode(pin, mode)</td>
   </tr>
+</table>
 <h3>Ejemplo</h3>
+<table>  
   <tr>
     <td>gpio.mode(0, gpio.OUTPUT)</td>
   </tr>
+</table>
