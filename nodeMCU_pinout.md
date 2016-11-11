@@ -15,3 +15,14 @@
     <td>Establezce el valor digital del pin GPIO.</td>
   </tr>
 </table>
+
+<h2>gpio.mode()</h2>
+<h3>Syntax</h3>
+<table>
+  <tr>
+    <td>gpio.mode(pin, mode)</td>
+  </tr>
+<h3>Ejemplo</h3>
+  <tr>
+    <td>gpio.mode(0, gpio.OUTPUT)</td>
+  </tr>
