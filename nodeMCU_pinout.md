@@ -3,7 +3,7 @@
 <h3>Módulo GPIO</h3>
 <table class="egt">
   <tr>
-    <td>Celda GPIO.Mode()</td>
+    <td>GPIO.Mode()</td>
     <td>Inicia el pin en modo GPIO, configura el pin como INPUT/OUTPUT.</td>
   </tr>
   <tr>
